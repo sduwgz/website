@@ -12,7 +12,7 @@ Email: weiguozheng at ict dot com
 
 ## Research interests
 
-Genome Assembly, Machine learning, Bioinfomatics, Information Retrieval
+Genome Assembly, Machine learning, Bioinfomatics
 
 ## Softwares
 
